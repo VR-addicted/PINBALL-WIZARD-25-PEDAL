@@ -10,5 +10,5 @@ What is todo?
 To FLASH or CONFIGURE or DEBUG the device via USB cable and a Browser follow the link.
 Its a freehoster for developers. 
 The link looks wired, but its safe and it works for free ^^
-https://68f04208780f46090cc97d76--lively-trifle-02f390.netlify.app/
 
+https://pinball-wizard-25.netlify.app/
